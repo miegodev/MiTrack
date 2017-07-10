@@ -79,7 +79,8 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/yasper/MiTrack", :tag => "0.6" }
+  s.source       = { :git => "https://github.com/yasper/MiTrack", :tag => "0.7" }
+  s.vendored_frameworks = 'MiTrack.framework'
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #

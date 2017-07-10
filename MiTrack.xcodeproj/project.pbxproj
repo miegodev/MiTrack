@@ -18,6 +18,7 @@
 		1A655BFA1F11378B00E1B5F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A655C011F11381D00E1B5F6 /* MiTracker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiTracker.swift; sourceTree = "<group>"; };
 		1A655C041F11382A00E1B5F6 /* String+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
+		1A69505D1F118DD100DF951E /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Podfile; path = ../../MiTest/Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 				1A655BF91F11378B00E1B5F6 /* MiTrack.h */,
 				1A655BFA1F11378B00E1B5F6 /* Info.plist */,
 				1A655C011F11381D00E1B5F6 /* MiTracker.swift */,
+				1A69505D1F118DD100DF951E /* Podfile */,
 			);
 			path = MiTrack;
 			sourceTree = "<group>";
