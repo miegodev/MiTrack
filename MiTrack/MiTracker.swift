@@ -10,6 +10,6 @@ import UIKit
 
 @objc public class MiTracker: NSObject {
      public class func track() {
-        "Running!".display()
+        "Running!!".display()
     }
 }
