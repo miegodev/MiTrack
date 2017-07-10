@@ -1,0 +1,10 @@
+framework module MiTrack {
+  umbrella header "MiTrack.h"
+
+  export *
+  module * { export * }
+}
+
+module MiTrack.Swift {
+    header "MiTrack-Swift.h"
+}
